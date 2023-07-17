@@ -5,11 +5,11 @@ If your WSA is rooted, this could be a better solution for you (I have not teste
 https://www.reddit.com/r/WSA/comments/wj7trp/tutorial_how_to_use_google_assistant_on/
 
 **Requirements/things to change**
-ADB installed on your PC
-ADB should be in your PATH variables. If it isn't, you can edit the script to place an absolute path.
-Google Assistant should be installed on WSA, with MagiskOnWSA
-Developer Mode should be enabled on WSA
-In this case, your WSA is reachable via 127.0.0.1 on port 58526. If yours is different, edit the script. Note in my personal script, I had to edit to place the local IP address of my Windows PC. This is due to a workaround to a known issue.
+* ADB installed on your PC
+* ADB should be in your PATH variables. If it isn't, you can edit the script to place an absolute path.
+* Google Assistant should be installed on WSA, with MagiskOnWSA
+* Developer Mode should be enabled on WSA
+* In this case, your WSA is reachable via 127.0.0.1 on port 58526. If yours is different, edit the script. Note in my personal script, I had to edit to place the local IP address of my Windows PC. This is due to a workaround to a known issue.
 
 **Sources:**
 https://www.reddit.com/r/Windows11/comments/qg91lu/comment/hzih5ih/?utm_source=share&utm_medium=web2x&context=
