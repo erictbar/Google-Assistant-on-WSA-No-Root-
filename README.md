@@ -18,6 +18,6 @@ https://www.reddit.com/r/WSA/comments/wj7trp/tutorial_how_to_use_google_assistan
 **To Do**
 I spent a lot of time trying to allow this script to work if WSA is not currently running. Some of the commented out parts reflect that. I ended up just requiring the script to run with WSA open.
 I also created a shortcut in my Start Menu that simply opens WSA without any apps. The target for this shortcut is:
-%LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WSAClient.exe
+* %LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WSAClient.exe
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND. I created this for myself and am sharing it in case others may want to reference it. I am not the best at batch scripting and you are welcome to fork and share your own.
