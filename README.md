@@ -12,8 +12,8 @@ https://www.reddit.com/r/WSA/comments/wj7trp/tutorial_how_to_use_google_assistan
 * In this case, your WSA is reachable via 127.0.0.1 on port 58526. If yours is different, edit the script. Note in my personal script, I had to edit to place the local IP address of my Windows PC. This is due to a workaround to a known issue.
 
 **Sources:**
-https://www.reddit.com/r/Windows11/comments/qg91lu/comment/hzih5ih/?utm_source=share&utm_medium=web2x&context=
-https://github.com/CKylinMC/wsa-scripts
+* https://www.reddit.com/r/Windows11/comments/qg91lu/comment/hzih5ih/?utm_source=share&utm_medium=web2x&context=
+* https://github.com/CKylinMC/wsa-scripts
 
 **To Do**
 I spent a lot of time trying to allow this script to work if WSA is not currently running. Some of the commented out parts reflect that. I ended up just requiring the script to run with WSA open.
