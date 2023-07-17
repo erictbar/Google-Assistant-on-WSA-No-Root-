@@ -1,5 +1,9 @@
 # Google-Assistant-on-WSA-No-Root-
+
 A script to run Google Assistant on MagiskOnWSA without root
+
+As of WSA 2305.40000.6.0 on Windows 11 22621.2066, opening Google Assistant on WSA will ask you to make it your default assistant. Trying to do this will open Windows settings, instead of Android settings, which pulls up an empty list. 
+This script will run an ADB command that temporarily change Android settings to make Google Assistant the default. However, this setting is removed on reboot of WSA. This script will add this setting via ADB and then open Google Assistant. WSA must be running (see To Do)
 
 If your WSA is rooted, this could be a better solution for you (I have not tested it):
 https://www.reddit.com/r/WSA/comments/wj7trp/tutorial_how_to_use_google_assistant_on/
